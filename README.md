@@ -1,3 +1,3 @@
 # find-a-gp
 
-Hello world!
+Hello world! It's a nice day :)
